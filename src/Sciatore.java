@@ -30,7 +30,7 @@ public class Sciatore extends Thread {
                 seggiovia.usaSeggiovia(nome);
             }
         } catch (InterruptedException e) {
-            System.out.println(nome + " ha terminato");
+            System.out.println("errore:" + e);
         }
     }
 }
