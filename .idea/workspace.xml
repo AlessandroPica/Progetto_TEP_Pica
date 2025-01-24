@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="116ebd8f-d862-4890-b953-460e2c66a357" name="Changes" comment="lavoro tep">
+    <list default="true" id="116ebd8f-d862-4890-b953-460e2c66a357" name="Changes" comment="finalizzazione esercizio">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ImpiantoSciistico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImpiantoSciistico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pista.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sciatore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sciatore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +33,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/AlessandroPica/Progetto_TEP_Pica.git&quot;,
-    &quot;accountId&quot;: &quot;86a00664-e567-43b9-88b3-59ed1d276454&quot;
+    &quot;accountId&quot;: &quot;256404f6-4ea2-47fe-8b93-ab461bd5697f&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -70,11 +70,20 @@
       <option name="project" value="LOCAL" />
       <updated>1737668834040</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="finalizzazione esercizio">
+      <option name="closed" value="true" />
+      <created>1737708616917</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737708616917</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lavoro tep" />
-    <option name="LAST_COMMIT_MESSAGE" value="lavoro tep" />
+    <MESSAGE value="finalizzazione esercizio" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalizzazione esercizio" />
   </component>
 </project>
