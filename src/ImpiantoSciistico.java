@@ -4,8 +4,8 @@ public class ImpiantoSciistico {
     public static void main(String[] args) {
         // Configurazione delle piste con tempi di discesa differenti
         Pista pista1 = new Pista("Pista 1", 3, 5); // Capacità 3, tempo di discesa 5 secondi
-        Pista pista2 = new Pista("Pista 2", 2, 3); // Capacità 2, tempo di discesa 3 secondi
-        Pista pista3 = new Pista("Pista 3", 1, 4); // Capacità 1, tempo di discesa 4 secondi
+        Pista pista2 = new Pista("Pista 2", 1, 3); // Capacità 1, tempo di discesa 3 secondi
+        Pista pista3 = new Pista("Pista 3", 2, 4); // Capacità 2, tempo di discesa 4 secondi
 
         Seggiovia seggiovia = new Seggiovia(2); // Capacità della seggiovia
 
