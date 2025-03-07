@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="116ebd8f-d862-4890-b953-460e2c66a357" name="Changes" comment="finalizzazione esercizio">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ImpiantoSciistico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ImpiantoSciistico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sciatore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sciatore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Seggiovia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seggiovia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +32,12 @@
     &quot;assignee&quot;: &quot;AlessandroPica&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AlessandroPica/Progetto_TEP_Pica.git",
-    "accountId": "b05f4f1f-4132-4325-b73a-7652f4830e35"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlessandroPica/Progetto_TEP_Pica.git&quot;,
+    &quot;accountId&quot;: &quot;b05f4f1f-4132-4325-b73a-7652f4830e35&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>

@@ -11,12 +11,20 @@ public class ImpiantoSciistico {
 
         Pista[] piste = {pista1, pista2, pista3};
 
-        // Creazione di 4 sciatori
-        Sciatore[] sciatori = new Sciatore[4];
+        // Creazione di 10 sciatori
+        Sciatore[] sciatori = new Sciatore[10];
 
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 10; i++) {
             sciatori[i] = new Sciatore("Sciatore " + (i + 1), piste, seggiovia);
             sciatori[i].start();
         }
+
+        // Chiude l'impianto dopo un certo periodo di tempo
+        try {
+            Thread.sleep(20000); // tempo prima della chiusura dell'impianto
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        seggiovia.chiudiImpianto();
     }
 }

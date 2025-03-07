@@ -24,7 +24,6 @@ public class Pista {
             System.out.println(sciatoreNome + " sta scendendo sulla " + nome);
             return true;
         } else {
-            System.out.println(sciatoreNome + " non può scendere sulla " + nome + " (pista piena)");
             return false;
         }
     }
